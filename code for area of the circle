@@ -1,0 +1,2 @@
+n=float(input())
+print("the area of the circle with radius",n,"is\n",(3.141592653589793)*n*n)
